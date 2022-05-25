@@ -1,5 +1,5 @@
 # wavbrdGCC
-https://imgur.com/a/06x4MNo
+![wavbrdGCC](https://imgur.com/a/06x4MNo)
 
 ALL CREDIT GOES TO PHOBOS AND HIS LOVELY TEAM <3
 
