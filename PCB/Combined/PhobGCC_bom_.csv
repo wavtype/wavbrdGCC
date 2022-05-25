@@ -1,0 +1,48 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,LCSC,Manufacturer PN,Comment,Configuration_Pole-Throw,Contact_Current_Rating,EU_RoHS_Compliance,Note
+1,Unpolarized capacitor,C,C1 C2 C3 C4 C5 C7,0.047u,C_0603_HandSoldering,6,~,C1622,,,,,,
+2,Unpolarized capacitor,C,C8 C9 C10 C11 C12 C13,1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,6,~,C15849,,,,,,
+3,Unpolarized capacitor,C,C6,10u,C_0603_HandSoldering,1,~,C19702,,,,,,
+4,Schottky diode,D_Schottky_Shorted,D1,D_Schottky_Shorted,D_SOD-523_Shorted,1,~,,,,,,,
+5,Schottky diode,D_Schottky,D2 D3,M7C,D_SOD-123,2,~,C8598,,,,,,
+6,Fuse,Fuse,F1,Fuse,R_1206_3216Metric,1,~,C69680,,,,,,
+7,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Male,J3,Conn_01x01_Male,PinHeader_1x01_P2.54mm_Vertical,1,~,,,,,,,
+8,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Male,J5,Conn_01x02_Male,PinHeader_1x02_P2.54mm_Vertical,1,~,,,,,,,
+9,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Female,J2,Conn_01x04_Female,Pin_Header_Straight_1x04_Pitch2.00mm,1,~,,,,,,,
+10,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J1,Conn_01x06_Female,GCC_Header_Straight_1x06_Pitch2.00mm,1,~,,,,,,,
+11,"N-MOSFET transistor, gate/source/drain",Q_NMOS_GSD,Q1 Q3,Q_NMOS_GSD,SOT-23,2,~,C20917,,,,,,
+12,"P-MOSFET transistor, gate/source/drain",Q_PMOS_GSD,Q2,Q_PMOS_GDS,SOT-23,1,~,C15127,,,,,,
+13,Resistor,R,R11 R12,100R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,~,C22775,,,,,,
+14,Resistor,R,R1 R2 R3 R4,2k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,~,C22975,0603WAF1002T5ECopy,,,,,
+15,Resistor,R,R13 R14 R15,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,~,C25804,,,,,,
+16,,Gamecube-MB-rescue_Slider_GCC-Gamecube_MB,RV1 RV2,R_POT_MountingPin,GCC_Slider,2,,,,,,,,
+17,"1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",SW_DIP_x01,SW8,1825027-5,Z_Switch_Edge,1,~,,,1825027-5,Single Pole - Single Throw,50 mA,Compliant,
+18,"Push button switch, generic, two pins",SW_Push,SW1,A,ABXY_Contact_Omron_Switch,1,~,,,,,,,
+19,"Push button switch, generic, two pins",SW_Push,SW2,B,ABXY_Contact_Omron_Switch,1,~,,,,,,,
+20,"Push button switch, generic, two pins",SW_Push,SW12,Ddown,Dpad_Contact_TL3315NF_2,1,~,,,,,,,
+21,"Push button switch, generic, two pins",SW_Push,SW9,Dleft,Dpad_Contact_TL3315NF_2,1,~,,,,,,,
+22,"Push button switch, generic, two pins",SW_Push,SW11,Dright,Dpad_Contact_TL3315NF_2,1,~,,,,,,,
+23,"Push button switch, generic, two pins",SW_Push,SW10,Dup,Dpad_Contact_TL3315NF_2,1,~,,,,,,,
+24,"Push button switch, generic, two pins",SW_Push,SW6,L,Pin_Header_Straight_1x02_Pitch2.54mm,1,~,,,,,,,
+25,"Push button switch, generic, two pins",SW_Push,SW7,R,Pin_Header_Straight_1x02_Pitch2.54mm,1,~,,,,,,,
+26,"Push button switch, generic, two pins",SW_Push,SW5,Start,Start_Contact,1,~,,,,,,,
+27,"Push button switch, generic, two pins",SW_Push,SW3,X,ABXY_Contact_Omron_Switch,1,~,,,,,,,
+28,"Push button switch, generic, two pins",SW_Push,SW4,Y,ABXY_Contact_Omron_Switch,1,~,,,,,,,
+29,,Gamecube-MB-rescue_Stickbox_Assembly-Gamecube_MB,U2,2x DRV5053CAQLPGM Hall Effect Sensors,GCC_Stickbox_2,1,,,,,,,,
+30,"Subminiature Reflective Optical Sensor, SMD-package with PCB-cutout",BPR-105,U3 U4,GP2S60-MFG,Sharp_Microelectronics-GP2S60-MFG,2,http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf,,,,,,,DNP
+31,,Teensy4.0,U1,Teensy4.0,Teensy40_Edge_Pins,1,,,,,,,,
+
+
+
+
+
+Component Groups:,32
+Component Count:,57
+Fitted Components:,51
+Number of PCBs:,1
+Total components:,51
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,5/21/2022 5:21:06 PM
+Schematic Source:,PhobGCC.kicad_sch
+KiCad Version:,Eeschema (6.0.4)

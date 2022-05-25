@@ -1,0 +1,15 @@
+### Module positions - created on Sat May 21 04:07:29 2022 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                                    PosX       PosY       Rot  Side
+D1        D_Schottky_Shorted  D_SOD-523_Shorted                     -107.5000   -58.2000    0.0000  bottom
+J1        Conn_01x06_Female   GCC_Header_Straight_1x06_Pitch2.00mm  -105.6000   -52.9000   90.0000  bottom
+J2        Conn_01x04_Female   Pin_Header_Straight_1x04_Pitch2.00mm  -169.1000  -105.9000   90.0000  bottom
+RV1       R_POT_MountingPin   GCC_Slider                             -87.6000   -63.4000  180.0000  bottom
+RV2       R_POT_MountingPin   GCC_Slider                            -137.6000   -63.4000  180.0000  bottom
+SW6       L                   Pin_Header_Straight_1x02_Pitch2.54mm   -54.0500   -89.8000    0.0000  bottom
+SW7       R                   Pin_Header_Straight_1x02_Pitch2.54mm  -165.4000   -92.4000  -90.0000  bottom
+U3        GP2S60-MFG          Sharp_Microelectronics-GP2S60-MFG      -88.6000   -68.2750  180.0000  bottom
+U4        GP2S60-MFG          Sharp_Microelectronics-GP2S60-MFG     -136.6000   -68.2750  180.0000  bottom
+## End
