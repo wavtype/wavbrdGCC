@@ -1,7 +1,7 @@
 # wavbrdGCC
 ![wavbrdGCC](https://i.imgur.com/ZELBmrC.png)
 
-ALL CREDIT GOES TO PHOBOS AND HIS LOVELY TEAM <3
+ALL CREDIT FOR THE ORIGINAL PCB GOES TO PHOBOS AND HIS LOVELY TEAM <3
 
 aesthetically modified version of the amazing PhobGCC
 
