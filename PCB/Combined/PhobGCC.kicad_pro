@@ -58,6 +58,7 @@
       "drc_exclusions": [
         "clearance|107000000|58200000|c714d25c-911c-401f-9c8b-963974cf3152|2aa7266a-114f-440e-8d92-0a9f3d08d958",
         "clearance|108000000|58200000|0f53c4cc-f186-4c9b-83cc-da2a178f0db5|2aa7266a-114f-440e-8d92-0a9f3d08d958",
+        "courtyards_overlap|169227001|90600001|00000000-0000-0000-0000-00006158fd99|3bbc1727-f3ea-48fc-afcf-e047b72f4942",
         "courtyards_overlap|169227001|90600001|3bbc1727-f3ea-48fc-afcf-e047b72f4942|00000000-0000-0000-0000-00006158fd99",
         "items_not_allowed|135894552|82880220|cc828797-af90-4431-abf8-2e60d00c4c3e|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|141471054|89295251|225508b0-6a84-4af7-89a9-c072bb958b70|00000000-0000-0000-0000-000000000000",
@@ -98,7 +99,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
