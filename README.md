@@ -1,5 +1,5 @@
 # wavbrdGCC
-![wavbrdGCC](https://i.imgur.com/ZELBmrC.png)
+![wavbrdGCC](https://i.imgur.com/dZnriih.png)
 
 ALL CREDIT FOR THE ORIGINAL PCB GOES TO PHOBOS AND HIS LOVELY TEAM <3
 
