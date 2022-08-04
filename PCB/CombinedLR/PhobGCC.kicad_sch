@@ -3628,7 +3628,7 @@
     (property "Value" "Conn_01x04_Female" (id 1) (at 249.6312 108.331 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "wavbrd:Pin_Header_Straight_1x04_Pitch2.00mm" (id 2) (at 248.92 105.41 0)
+    (property "Footprint" "wavbrd:PinHeader_1x04_P2.00mm_Vertical" (id 2) (at 248.92 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 248.92 105.41 0)
@@ -3773,7 +3773,7 @@
     (uuid 00000000-0000-0000-0000-00006159dc5a)
     (property "Reference" "SW8" (id 0) (at 148.59 88.9 0))
     (property "Value" "1825027-5" (id 1) (at 148.59 91.44 0))
-    (property "Footprint" "wavbrd:Z_Switch_Edge" (id 2) (at 148.59 95.25 0)
+    (property "Footprint" "" (id 2) (at 148.59 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 148.59 95.25 0)
@@ -4749,7 +4749,7 @@
     (uuid 65840528-ae86-4ed9-af78-7b21e0f683c8)
     (property "Reference" "D3" (id 0) (at 104.14 109.22 0))
     (property "Value" "M7C" (id 1) (at 106.68 109.22 0))
-    (property "Footprint" "" (id 2) (at 109.22 109.22 0)
+    (property "Footprint" "wavbrd:D_SOD-123" (id 2) (at 109.22 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 109.22 0)
@@ -5618,7 +5618,7 @@
       (reference "J1") (unit 1) (value "Conn_01x06_Female") (footprint "wavbrd:GCC_Header_Straight_1x06_Pitch2.00mm")
     )
     (path "/00000000-0000-0000-0000-000061575d66"
-      (reference "J2") (unit 1) (value "Conn_01x04_Female") (footprint "wavbrd:Pin_Header_Straight_1x04_Pitch2.00mm")
+      (reference "J2") (unit 1) (value "Conn_01x04_Female") (footprint "wavbrd:PinHeader_1x04_P2.00mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000061cbc92e"
       (reference "J3") (unit 1) (value "Conn_01x01_Male") (footprint "wavbrd:PinHeader_1x01_P2.54mm_Vertical")
@@ -5702,7 +5702,7 @@
       (reference "SW7") (unit 1) (value "R") (footprint "wavbrd:Pin_Header_Straight_1x02_Pitch2.54mm")
     )
     (path "/00000000-0000-0000-0000-00006159dc5a"
-      (reference "SW8") (unit 1) (value "1825027-5") (footprint "wavbrd:Z_Switch_Edge")
+      (reference "SW8") (unit 1) (value "1825027-5") (footprint "wavbrd:Z_Switch_Edge_Omron")
     )
     (path "/00000000-0000-0000-0000-00006157aadd"
       (reference "SW9") (unit 1) (value "Dleft") (footprint "wavbrd:Dpad_Contact_TL3315NF_2")
