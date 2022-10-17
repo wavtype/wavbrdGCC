@@ -1,11 +1,11 @@
 # wavbrdGCC
-![wavbrdGCC](https://i.imgur.com/dZnriih.png)
+![wavbrdGCC](https://i.imgur.com/g6SPOYc.png)
 
-ALL CREDIT FOR THE ORIGINAL PCB GOES TO PHOBOS AND HIS LOVELY TEAM <3
+ALL CREDIT FOR THE ORIGINAL PCB GOES TO PHOBOS AND HIS TEAM
 
-aesthetically modified version of the amazing PhobGCC
+aesthetically and functionally modified version of the PhobGCC
 
-to contact me for whatever reason my discord is hunter#2961
+to contact me for whatever reason my discord is wav#0000
 
 for more info on the PhobGCC project and it's development, visit these links below!
 
