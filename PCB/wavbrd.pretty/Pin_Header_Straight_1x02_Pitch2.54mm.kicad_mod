@@ -23,8 +23,8 @@
   (fp_line (start -0.635 -1.27) (end 1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp 2ecc4758-c242-4de1-a835-0af9c459499c))
   (fp_line (start -1.27 3.81) (end -1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp 7197bd5e-4c5e-43a8-bb44-b7f54cc255de))
   (fp_line (start 1.27 3.81) (end -1.27 3.81) (layer "F.Fab") (width 0.1) (tstamp 7ef3523f-726d-4b4c-be79-ac54ab08d7ec))
-  (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu "F.Mask") (tstamp 196232e5-eeca-40dc-98d0-a462feabcea7))
-  (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu "F.Mask") (tstamp a1df0f65-41b6-4cdc-8a32-c74f8ffd24bf))
+  (pad "1" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 0.85) (layers *.Cu "F.Mask") (tstamp a1df0f65-41b6-4cdc-8a32-c74f8ffd24bf))
+  (pad "2" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 0.85) (layers *.Cu "F.Mask") (tstamp 196232e5-eeca-40dc-98d0-a462feabcea7))
   (model "${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_1x02_Pitch2.54mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
