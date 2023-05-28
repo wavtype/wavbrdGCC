@@ -5,7 +5,7 @@ ALL CREDIT FOR THE ORIGINAL PCB GOES TO PHOBOS AND HIS TEAM
 
 aesthetically and functionally modified version of the PhobGCC
 
-to contact me for whatever reason my discord is wav#0000
+to contact me for whatever reason my discord is wav#9999
 
 for more info on the PhobGCC project and it's development, visit these links below!
 
